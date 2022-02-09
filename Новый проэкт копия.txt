@@ -1,0 +1,4 @@
+Копировать только четыре папки:src,gulp,gulpfile.js,package.json(npm i)
+
+
+Версии плагинов можна поставить "latest" ("webp-converter": "2.2.3",)
